@@ -18,6 +18,10 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=Amazon Lambda&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS S3-FF9900?style=for-the-badge&logo=Amazon S3&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS EKS-FF9900?style=for-the-badge&logo=Amazon EKS&logoColor=white">
 </div>
 
 
