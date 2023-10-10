@@ -1,5 +1,8 @@
 # 취업을 위한 포트폴리오 입니다.
 
+## STACKS
+<img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 ## INDEX
 1. 자연어 처리기술을 이용한 쇼핑몰 리뷰 시스템 개선
 2. 사이버 보안 교육 플랫폼 및 사내업무 보조 챗봇 개발
