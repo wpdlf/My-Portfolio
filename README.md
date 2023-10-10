@@ -23,7 +23,10 @@
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
   <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=Amazon Lambda&logoColor=white">
   <img src="https://img.shields.io/badge/AWS S3-FF9900?style=for-the-badge&logo=Amazon S3&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS EKS-FF9900?style=for-the-badge&logo=Amazon EKS&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS EKS-FF9900?style=for-the-badge&logo=Amazon EKS&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
 
 
