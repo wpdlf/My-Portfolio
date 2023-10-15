@@ -33,6 +33,13 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
 
+<div align=center><h1>📚 STUDYING</h1></div>
+<div align=center>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+</div>
+
 
 ## INDEX
 1. 자연어 처리기술을 이용한 쇼핑몰 리뷰 시스템 개선
